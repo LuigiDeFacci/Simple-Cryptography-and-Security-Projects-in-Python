@@ -24,10 +24,6 @@
 <ul>
 	<li>Source MAC address</li>
 	<li>Destination MAC address</li>
-	<li>Source IP address</li>
-	<li>Destination IP address</li>
-	<li>Source port</li>
-	<li>Destination port</li>
 	<li>Protocol</li>
 	<li>Payload (if applicable)</li>
 	<li>Time</li>
