@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>Network Monitor Program</h1>
+    <h1>DNS Network Monitor</h1>
     <p>This program is a simple network monitoring tool built using the <code>scapy</code> packet manipulation library and the <code>tkinter</code> GUI toolkit. </p>
     <p>When the program is run, it creates a window displaying a label that reads "Captured DNS Requests" and a scrolled text widget that displays the captured DNS requests.</p>
     <p>The <code>NetworkMonitor</code> class is responsible for creating and managing the window and the <code>sniff_dns</code> method is responsible for capturing DNS requests.</p>
